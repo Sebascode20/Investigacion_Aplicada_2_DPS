@@ -14,4 +14,4 @@ Una aplicación simple de lista de tareas desarrollada con **React Native**. Per
 1. Clona este repositorio en tu máquina local:
 
    ```bash
-   git clone https://github.com/Sebascode20/todo-app.git
+   git clone https://github.com/Sebascode20/Investigacion_Aplicada_2_DPS.git
